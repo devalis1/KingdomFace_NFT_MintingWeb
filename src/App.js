@@ -72,6 +72,7 @@ export const StyledLogo = styled.img`
   }
   transition: width 0.5s;
   transition: height 0.5s;
+  border: 4px dashed var(--secondary);
 `;
 
 export const StyledImg = styled.img`

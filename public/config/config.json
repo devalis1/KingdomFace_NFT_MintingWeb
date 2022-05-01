@@ -4,13 +4,13 @@
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 137
+    "ID": 80001
   },
   "NFT_NAME": "Kingdom Face",
   "SYMBOL": "KFNFT",
   "MAX_SUPPLY": 50,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kingdom-face",
